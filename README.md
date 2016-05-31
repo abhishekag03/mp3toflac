@@ -1,6 +1,6 @@
 # mp3toflac
 
-Kirk Hammond (kirkdhammond@gmail.com) 20151009
+Splix76 (splixseventysix@gmail.com) 20151009
 
 A simple script I wrote to convert files from mp3 to flac. I did this to resolve playback issues with some mp3 files in my car audio deck. 
 There is very little reason to convert from mp3 to flac, since mp3 is lossy and flac is lossless it would be better to re-rip from your original media if possible.
